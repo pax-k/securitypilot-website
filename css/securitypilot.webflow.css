@@ -1666,6 +1666,7 @@ figcaption {
   display: flex;
   position: -webkit-sticky;
   position: sticky;
+  top: 0;
 }
 
 .navbar12_menu-button {
